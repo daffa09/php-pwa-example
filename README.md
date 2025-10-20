@@ -10,3 +10,4 @@ git clone https://github.com/daffa09/php-pwa-example.git
 http://localhost/php-pwa-example/
 ```
 3. Install the app to your device by clicking the install button in the address bar or in the browser menu.
+4. <img width="306" height="228" alt="image" src="https://github.com/user-attachments/assets/64fe8d3d-ca8b-4768-98af-7c443a17bb99" />
